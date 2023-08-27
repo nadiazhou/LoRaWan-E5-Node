@@ -1,3 +1,4 @@
+For UT23 Wireless DAQ Experimentating Purposes. 
 
 # LoRa-E5-LoRaWAN-End-Node
 
